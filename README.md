@@ -4,9 +4,11 @@ INTRODUCTION:
 
 In the dynamic landscape of modern businesses, data-driven decision-making has emerged as a crucial strategy for growth and sustainability. TechCorp, a pioneering technology company, recognizes the power of data in shaping its workforce dynamics. To gain deeper insights into its employee landscape, TechCorp embarked on an in-depth analysis of its employee data. This endeavor aimed to uncover trends, patterns, and key metrics that could guide strategic decisions and foster a more engaging and productive work environment. By delving into the nuances of its workforce, TechCorp sought to answer critical questions about retention, diversity, and performance. In this case study, we explore how TechCorp utilized data analysis to derive actionable insights and drive informed choices for the future.
 
+
 PROBLEM STATEMENT:
 
 As TechCorp continues to navigate the competitive tech industry, optimizing its workforce composition and retention strategies has become paramount. The company is confronted with questions regarding employee turnover, demographic representation, and the overall impact of these factors on its growth trajectory. To address these challenges, TechCorp undertook a comprehensive analysis of its employee data. The goal was to uncover underlying patterns that could shed light on the optimal strategies for enhancing employee satisfaction, reducing attrition, and harnessing the potential of its diverse talent pool. By leveraging data-driven insights, TechCorp aims to proactively shape its workforce dynamics and create an environment that nurtures longevity, diversity, and performance. The findings derived from this analysis serve as a compass for TechCorp's strategic decisions, enabling the company to chart a course towards sustained success.
+
 
 DATASET:
 The dataset consists of the following columns:
@@ -24,8 +26,10 @@ The dataset consists of the following columns:
 11. termdate: Date when the employee's employment was terminated (if applicable).
 12. location_city: City of the employee's location.
 13. location_state: State of the employee's location.
+
  
 DATA CLEANING PROCESS
+
 Data cleaning, also known as data cleansing or data scrubbing, is a crucial process in data preparation and analysis. Its main objective is to identify and correct errors, inconsistencies, and inaccuracies in datasets to improve their quality and reliability. The ultimate goal of data cleaning is to ensure that the data used for analysis is accurate, complete, and consistent, leading to more reliable insights and conclusions. In this project, we utilized Microsoft Excel to clean the data, making it more useful before visualizing it and drawing conclusions from the insights. Below is a detailed description of the data cleaning process we performed:
 
 Data Cleaning in Excel:
